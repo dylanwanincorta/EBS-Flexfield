@@ -1,0 +1,2 @@
+-- Only the value Sets used in the selected key flexfield and the selected structures are needed
+-- Only the independent value sets
